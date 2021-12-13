@@ -1,9 +1,9 @@
 /************************************************************************************
- *  Created By: Tauseef Ahmad
+ *  Created By: 
  *  Created On: October 9, 2021
  *  
  *  Tutorial Video: https://youtu.be/yem5EysVloc
- *  My Channel: https://www.youtube.com/channel/UCOXYfOHgu-C-UfGyDcu5sYw/
+ *  
  *  
  *  *********************************************************************************
  *  Preferences--> Aditional boards Manager URLs : 
